@@ -6,7 +6,7 @@ import java.sql.SQLException;
 
 public class Conexao {
     //Caminho do banco de dados
-    private static final String url = "jdbc:mysql://localhost:3306/dbUser";
+    private static final String url = "jdbc:mysql://localhost:3306/dbuser";
     //Usuario do banco de dados
     private static final String user= "";
     //Senha do banco de dados
